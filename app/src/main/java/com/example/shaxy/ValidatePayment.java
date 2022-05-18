@@ -13,7 +13,7 @@ public class ValidatePayment extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_validate_payment);
-        btn = this.findViewById(R.id.confirmeNumber);
+        btn = this.findViewById(R.id.confirmButton);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
