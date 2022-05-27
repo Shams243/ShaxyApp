@@ -19,12 +19,13 @@
         app:srcCompat="@drawable/acceptetcontinuer" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/mailEditText"
         android:layout_width="319dp"
         android:layout_height="50dp"
         android:backgroundTint="@android:color/white"
         android:ems="10"
         android:inputType="textPersonName"
+        android:textColor="@color/white"
         android:text=" "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

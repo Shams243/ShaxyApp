@@ -13,7 +13,8 @@
         android:layout_height="243dp"
         app:srcCompat="@drawable/destination"
         tools:layout_editor_absoluteX="-40dp"
-        tools:layout_editor_absoluteY="558dp" />
+        tools:layout_editor_absoluteY="558dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageButton
         android:id="@+id/imageButton6"
@@ -50,5 +51,21 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.385"
         app:srcCompat="@drawable/localisation" />
+
+    <TextView
+        android:id="@+id/nameView"
+        android:layout_width="206dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="107dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="98dp"
+        android:layout_marginBottom="664dp"
+        android:text=" "
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
