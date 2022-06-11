@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Shaxy">
         <activity
+            android:name=".jsonTest"
+            android:exported="false" />
+        <activity
             android:name=".Confirmationpage"
             android:exported="false" />
         <activity

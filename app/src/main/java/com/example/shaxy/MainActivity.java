@@ -13,12 +13,15 @@ import androidx.appcompat.widget.AppCompatImageButton;
 
 public class MainActivity extends AppCompatActivity {
     ImageButton btnsuivant;
+    Button jsonBtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         btnsuivant = this.findViewById(R.id.btnSuivant1);
+
+        jsonBtn = this.findViewById(R.id.jsonBtn);
 
         btnsuivant.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -27,5 +30,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        jsonBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getApplicationContext(), jsonTest.class));
+            }
+        });
     }
 }

@@ -14,13 +14,18 @@
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_dest_confir.xml" value="0.25" />
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_enregistrement_mail.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_enregistrement_number.xml" value="0.33" />
-        <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_json.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_json_test.xml" value="0.25" />
+        <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_maps_searching.xml" value="0.12" />
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_second.xml" value="0.24322799097065462" />
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/activity_validate_payment.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/content_second.xml" value="0.25" />
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/fragment_first.xml" value="0.151268115942029" />
         <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/fragment_second.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/json_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/magbt/AndroidStudioProjects/Shaxy/app/src/main/res/layout/rowjson.xml" value="0.4809052333804809" />
       </map>
     </option>
   </component>
